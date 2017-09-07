@@ -1,0 +1,9 @@
+{
+  "tests.py::TestClass::()::test_answer": true,
+  "tests.py::test_answer": true,
+  "tests.py::test_output[day_values0-third desc-output0]": true,
+  "tests.py::test_square_vs_double[mon-4-16]": true,
+  "tests.py::test_square_vs_double[mon-4-8]": true,
+  "tests.py::test_square_vs_double[wed-3-double-6]": true,
+  "tests.py::test_square_vs_double[wed-50-double-100]": true
+}
